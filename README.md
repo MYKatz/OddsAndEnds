@@ -1,2 +1,2 @@
 # OddsAndEnds
-Miscellaneous things that I do.  Probably completely useless.
+Usually things that other people ask me to do for them.
